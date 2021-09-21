@@ -157,6 +157,9 @@ Media->>>>>
     .search{
         width: 48%;
     }
+    .search__input{
+        margin-left: 3px;
+    }
     .user {
         width: 20.3%;
         margin-left: 0px;
@@ -264,10 +267,11 @@ Media->>>>>
         margin-top: 3%;
     }
     .search {
-        width: 120%;
+        width: 115%;
     }
-    .search__magnifier{
-        margin-left: 7.7%;
+    .search__link {
+        margin-left: 2.9%;
+        margin-top: -1px;
     }
     ._container{
         width: 89%;
